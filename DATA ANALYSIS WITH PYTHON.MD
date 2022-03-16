@@ -1,4 +1,4 @@
-# COURSE 6: DATA ANALYSIS WITH PYTHON
+#  DATA ANALYSIS WITH PYTHON
 
 
 Libraries used for this course: `matplotlib`, `pandas`, and `scikit-learn`
