@@ -225,7 +225,7 @@ plt.xlable('Years')
 plt.show()
 ```
 
-![c7_w2_immigration_trend](https://github.comyaswanthteja/IBMDatascience/blob/main/images/DV_images/c7_w2_immigration_trend.png)
+![c7_w2_immigration_trend](https://github.com/yaswanthteja/IBMDatascience/blob/main/images/DV_images/c7_w2_immigration_trend.png)
 
 
 ### 2.2. Histograms
